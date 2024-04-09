@@ -1,0 +1,10 @@
+src/Magellan.Api/Properties/**
+.DS_Store
+src/obj/**
+**/bin/**
+**/obj/**
+src/.idea/**
+src/global.json
+src/Magellan.Api/appsettings.Development.json
+src/Magellan.Api/appsettings.json
+src/Magellan.sln.DotSettings.user
